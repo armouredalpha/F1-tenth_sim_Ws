@@ -1,0 +1,6 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "colcon": true,
+        "ros2": true
+    }
+}
